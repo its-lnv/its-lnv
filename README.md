@@ -126,7 +126,7 @@
 <br/>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=its-lnv&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=its-lnv&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
 
 <br/>
