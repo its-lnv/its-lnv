@@ -126,16 +126,16 @@
 <br/>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=its-lnv&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-lnv&theme=github_dark" alt="Contribution Activity"/>
 </p>
 
 <br/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake-dark.svg?v=20260907">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake.svg?v=20260907">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/its-lnv/its-lnv/output/github-contribution-grid-snake.svg?v=20260907">
   </picture>
 </p>
 
