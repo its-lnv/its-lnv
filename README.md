@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.lnv.me/">
-    <img src="https://img.shields.io/badge/Visit_My_Website-2F7D4F?style=flat-square&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit_My_Website-2F7D4F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/laxmi-narayan-verma-b91634379/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -21,13 +21,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://x.com/itz_lnv">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>&nbsp;
   <a href="https://lakshminarayanverma91.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/itz_lnv/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp;
 </p>
 
